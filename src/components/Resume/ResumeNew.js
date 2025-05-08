@@ -1,9 +1,7 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import pdf from "../../Assets/Aashi_Frontend.pdf"; 
-import { AiOutlineDownload } from "react-icons/ai";
 
 function ResumeNew() {
   return (
